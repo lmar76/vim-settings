@@ -17,7 +17,3 @@ set smarttab
 set termguicolors
 
 filetype plugin indent on   " allow auto-indenting depending on file type
-
-call plug#begin()
-Plug 'brooth/far.vim'
-call plug#end()
