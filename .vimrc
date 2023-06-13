@@ -11,7 +11,6 @@ set number                  " add line numbers
 set wildmode=longest,list   " get bash-like tab completions
 set mouse=a                 " enable mouse click
 set clipboard=unnamedplus   " using system clipboard
-set cursorline              " highlight current cursorline
 set ttyfast                 " Speed up scrolling in Vim
 set smarttab
 set termguicolors
