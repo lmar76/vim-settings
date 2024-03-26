@@ -19,10 +19,8 @@ filetype plugin indent on   " allow auto-indenting depending on file type
 
 call plug#begin()
 
-Plug 'ghifarit53/tokyonight-vim'
+Plug 'https://github.com/joshdick/onedark.vim.git'
 
 call plug#end()
 
-let g:tokyonight_style = 'night'    " available: night, storm
-let g:tokyonight_enable_italic = 1
-colorscheme tokyonight
+colorscheme onedark
